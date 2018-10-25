@@ -16,6 +16,7 @@ void ParrlelMerge::merge(std::vector<size_t>& in, size_t start, size_t end)
 	std::copy(temp.begin(), temp.end(), in.begin());
 	std::cout << "start: " << start << " end: " << end << std::endl;
 	print_merged(in);
+	//dsfds
 }
 
 void ParrlelMerge::print_merged(std::vector<size_t> in) const
