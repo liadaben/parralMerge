@@ -26,10 +26,10 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="parallerSort.cpp">
+    <ClCompile Include="ParrlelMerge.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ParrlelMerge.cc">
+    <ClCompile Include="parallerSort.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

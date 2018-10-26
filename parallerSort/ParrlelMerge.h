@@ -1,5 +1,6 @@
 #pragma once
 
+#include <memory>
 #include "tbb/flow_graph.h"
 
 class ParrlelMerge
